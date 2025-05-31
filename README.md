@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Josué
 
-<!--
-**josuekla/josuekla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que causam impacto real.
 
-Here are some ideas to get you started:
+💼 Jovem Aprendiz no SENAI (área técnica)  
+🌱 Explorando o mundo do Front-end, UI/UX e integrações com back-end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 📌 Brasileiro, com um propósito: transformar a vida da minha família e de outros através da tecnologia e da fé.
+- ⚙️ Buscando projetos que unem **tecnologia, propósito e pessoas**.
+- 🙌 Acredito que o verdadeiro sucesso começa **de dentro pra fora**.
+
+---
+
+### 🛠️ Habilidades em desenvolvimento
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind
+- Figma → Codificação
+- Python (Django - iniciante)
+
+---
+
+### 📫 Como falar comigo
+- Email: **josuekla@gmail.com**
+- LinkedIn: [linkedin.com/in/josuekla](https://linkedin.com/in/josuekla)
+
+---
+
+> “Ideias movem o mundo, mas só as ações mudam realidades.”  
+> — Josué Kla ✍️
