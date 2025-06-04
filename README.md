@@ -28,5 +28,4 @@
 
 ---
 
-> “Ideias movem o mundo, mas só as ações mudam realidades.”  
-> — Josué Kla ✍️
+> “Ideias movem o mundo, mas só as ações mudam realidades.” 
