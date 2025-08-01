@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Josué
+## Olá sou o Josué
 
 💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que causam impacto real.
 
