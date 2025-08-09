@@ -2,7 +2,6 @@
 
 💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que causam impacto real.
 
-💼 Jovem Aprendiz no SENAI (área técnica)  
 🌱 Explorando o mundo do Front-end, UI/UX e integrações com back-end
 
 ---
