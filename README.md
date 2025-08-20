@@ -2,7 +2,7 @@
 
 💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que causam impacto real.
 
-🌱 Explorando o mundo do Front-end, UI/UX e integrações com back-end
+🌱 Explorando o mundo do Front-end, UI/UX e integrações com back-end e curiosidade genuina em dados
 
 ---
 
