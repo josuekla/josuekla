@@ -40,7 +40,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" width="50" alt="Instagram"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="josueksantos.silva@gmail.com" target="_blank">
+<a href="mailto:josueksantos.silva@gmail.com?subject=Vamos%20conversar&body=Olá,%20gostaria%20de%20conhecer%20seus%20projetos%20e%20discutir%20uma%20oportunidade!" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="50" alt="Email"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
