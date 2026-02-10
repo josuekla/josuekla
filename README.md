@@ -9,14 +9,14 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/josuekla/material-icons/blob/main/tailwind.webp" width="60" alt="TailwindCSS"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/josuekla/material-icons/blob/main/django.svg" width="45" alt="Django"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" alt="Django"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/josuekla/material-icons/blob/main/tailwind.webp" width="60" alt="TailwindCSS"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
