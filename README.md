@@ -1,13 +1,13 @@
 # Olá! Eu sou o Josué Klaysler <img src="https://github.com/josuekla/material-icons/blob/main/ola.gif" width="27px">
 
-Sou estudante de **Sistemas de Informação** e apaixonado por desenvolvimento de software, sempre buscando aprender novas tecnologias e construir soluções que gerem impacto.
+Estudante de **Sistemas de Informação** e apaixonado por desenvolvimento de software, sempre em busca de novas tecnologias e de soluções que gerem impacto real.
 
 ## <img src="https://github.com/josuekla/material-icons/blob/main/dev.gif" width="27px"> Sobre mim
 
 - 💻 Técnico em **Desenvolvimento de Sistemas** pela **SEDUC-PI**
 - 🎓 Graduando em **Sistemas de Informação** na **UESPI**
-- 🌐 Atualmente estudando **Desenvolvimento Web** com **Python**, **Django** e **React**
-- <img src="https://github.com/josuekla/material-icons/blob/main/avião.gif" width="22px"> Participante de um intercâmbio de **30 dias nos Estados Unidos**
+- 🌐 Aprofundando conhecimentos em **Desenvolvimento Web** com **Python**, **Django** e **React**
+- <img src="https://github.com/josuekla/material-icons/blob/main/avi%C3%A3o.gif" width="22px"> Participante de um intercâmbio de **30 dias nos Estados Unidos**
 
 ---
 
@@ -30,13 +30,15 @@ Sou estudante de **Sistemas de Informação** e apaixonado por desenvolvimento d
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=josuekla&show_icons=true&count_private=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=josuekla&layout=compact&theme=tokyonight"/>
+  <img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=josuekla&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+<p align="center"><sub>Cartões gerados automaticamente via GitHub Actions e atualizados diariamente.</sub></p>
 
 ---
 
@@ -47,5 +49,3 @@ Sou estudante de **Sistemas de Informação** e apaixonado por desenvolvimento d
   <a href="https://instagram.com/josueklaysler" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:josueksantos.silva@gmail.com?subject=Vamos%20conversar&body=Olá,%20gostaria%20de%20conhecer%20seus%20projetos%20e%20discutir%20uma%20oportunidade!"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="55" alt="Gmail"/></a>
 </div>
-
-
